@@ -1,5 +1,5 @@
 const clientId = '';
-const redirectUri = 'http://localhost:3000';
+const redirectUri = 'http://reflective-summer.surge.sh';
 let accessToken;
 
 const Spotify = {
